@@ -1,3 +1,4 @@
+https://youtu.be/MwHEDPBfKPo
 # 13 Object-Relational Mapping (ORM): E-Commerce Back End
 
 This app is the back end for an e-commerce site, using a working Express.js API and Sequelize to interact with a MySQL database.
